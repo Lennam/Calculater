@@ -1,0 +1,36 @@
+#container {
+    border-radius: 10px;
+    background: black;
+    width: 480px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#screen{
+    margin: 15px 0;
+    width: 440px;
+    border-radius: 10px;
+    height: 50px;
+    text-align: right;
+    font-size: 25px;
+}
+
+#buttons {
+    width: 440px;
+    margin-bottom: 20px;
+}
+.button{
+    width: 100px;
+    height:60px;
+    margin: 3px;
+}
+
+.zero {
+    width: 211px;
+}
+
+.ac{
+    width: 211px;
+}
+
